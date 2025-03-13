@@ -4,8 +4,6 @@ I'm currently a **Test Automation Engineer**, but I have a great passion for **b
 
 I enjoy exploring new technologies and taking on exciting challenges in the world of software! 🚀
 
-![FrancescaMurano's Stats](https://github-readme-stats.vercel.app/api?username=FrancescaMurano&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
-
 ![FrancescaMurano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescaMurano&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 #### Programming Languages 💻:
